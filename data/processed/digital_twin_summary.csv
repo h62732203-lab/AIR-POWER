@@ -1,0 +1,2 @@
+aircraft_count,average_twin_condition,healthy_aircraft,degraded_aircraft,critical_aircraft,average_RUL,minimum_RUL,available_now,synthetic
+20,63.9,6,12,2,28.3,6.0,8,True

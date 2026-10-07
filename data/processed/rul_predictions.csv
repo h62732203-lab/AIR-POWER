@@ -1,0 +1,21 @@
+aircraft_id,engine_id,predicted_RUL,health_score,risk_level,fleet_status,model
+AP-040,ENG-040,7.0,43.0,HIGH,RESTRICTED,XGBoost-compatible demonstration layer
+AP-041,ENG-041,62.0,91.0,LOW,READY,XGBoost-compatible demonstration layer
+AP-042,ENG-042,55.0,87.0,LOW,READY,XGBoost-compatible demonstration layer
+AP-043,ENG-043,48.0,82.0,LOW,READY,XGBoost-compatible demonstration layer
+AP-044,ENG-044,41.0,78.0,LOW,READY,XGBoost-compatible demonstration layer
+AP-045,ENG-045,36.0,74.0,MEDIUM,READY,XGBoost-compatible demonstration layer
+AP-046,ENG-046,32.0,71.0,MEDIUM,READY,XGBoost-compatible demonstration layer
+AP-047,ENG-047,29.0,69.0,MEDIUM,WARNING,XGBoost-compatible demonstration layer
+AP-048,ENG-048,27.0,66.0,MEDIUM,WARNING,XGBoost-compatible demonstration layer
+AP-049,ENG-049,24.0,63.0,MEDIUM,WARNING,XGBoost-compatible demonstration layer
+AP-050,ENG-050,21.0,59.0,HIGH,WARNING,XGBoost-compatible demonstration layer
+AP-051,ENG-051,18.0,56.0,HIGH,WARNING,XGBoost-compatible demonstration layer
+AP-052,ENG-052,15.0,52.0,HIGH,RESTRICTED,XGBoost-compatible demonstration layer
+AP-053,ENG-053,12.0,48.0,HIGH,RESTRICTED,XGBoost-compatible demonstration layer
+AP-054,ENG-054,10.0,44.0,HIGH,RESTRICTED,XGBoost-compatible demonstration layer
+AP-055,ENG-055,8.0,36.0,CRITICAL,GROUNDED,XGBoost-compatible demonstration layer
+AP-056,ENG-056,6.0,31.0,CRITICAL,GROUNDED,XGBoost-compatible demonstration layer
+AP-057,ENG-057,45.0,84.0,LOW,READY,XGBoost-compatible demonstration layer
+AP-058,ENG-058,39.0,76.0,LOW,READY,XGBoost-compatible demonstration layer
+AP-059,ENG-059,31.0,68.0,MEDIUM,WARNING,XGBoost-compatible demonstration layer

@@ -1,0 +1,241 @@
+aircraft_id,engine_id,cycle,risk_level,dominant_sensor,primary_reason,recommended_action,priority_score,anomaly_score,health_score,predicted_RUL
+AP-040,ENG-040,95,HIGH,fuel_flow,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.7444,0.7698,43.0,7.0
+AP-040,ENG-040,77,HIGH,fuel_flow,increased vibration; increased fuel-flow demand.,Service immediately and inspect degraded engine systems before next mission.,0.705,0.6982,43.0,7.0
+AP-040,ENG-040,64,HIGH,vibration,increased vibration.,Service immediately and inspect degraded engine systems before next mission.,0.6478,0.5942,43.0,7.0
+AP-040,ENG-040,53,HIGH,fuel_flow,increased vibration; increased fuel-flow demand.,Service immediately and inspect degraded engine systems before next mission.,0.6329,0.5671,43.0,7.0
+AP-040,ENG-040,99,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5825,0.4756,43.0,7.0
+AP-040,ENG-040,100,HIGH,fuel_flow,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5707,0.454,43.0,7.0
+AP-040,ENG-040,98,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5617,0.4377,43.0,7.0
+AP-040,ENG-040,97,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5598,0.4343,43.0,7.0
+AP-040,ENG-040,93,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5582,0.4314,43.0,7.0
+AP-040,ENG-040,94,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5572,0.4295,43.0,7.0
+AP-040,ENG-040,91,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5542,0.424,43.0,7.0
+AP-040,ENG-040,96,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5531,0.422,43.0,7.0
+AP-041,ENG-041,94,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0897,0.1054,91.0,62.0
+AP-041,ENG-041,100,LOW,vibration,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0825,0.0923,91.0,62.0
+AP-041,ENG-041,87,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.08,0.0877,91.0,62.0
+AP-041,ENG-041,99,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0797,0.0872,91.0,62.0
+AP-041,ENG-041,90,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0794,0.0867,91.0,62.0
+AP-041,ENG-041,92,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0786,0.0853,91.0,62.0
+AP-041,ENG-041,98,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0782,0.0845,91.0,62.0
+AP-041,ENG-041,77,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0782,0.0844,91.0,62.0
+AP-041,ENG-041,91,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0771,0.0824,91.0,62.0
+AP-041,ENG-041,95,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0766,0.0816,91.0,62.0
+AP-041,ENG-041,93,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0753,0.0793,91.0,62.0
+AP-041,ENG-041,85,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.0739,0.0767,91.0,62.0
+AP-042,ENG-042,94,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1289,0.1194,87.0,55.0
+AP-042,ENG-042,96,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1271,0.116,87.0,55.0
+AP-042,ENG-042,84,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1264,0.1148,87.0,55.0
+AP-042,ENG-042,100,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1239,0.1103,87.0,55.0
+AP-042,ENG-042,89,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1234,0.1093,87.0,55.0
+AP-042,ENG-042,97,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1193,0.1019,87.0,55.0
+AP-042,ENG-042,95,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1193,0.1018,87.0,55.0
+AP-042,ENG-042,91,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.118,0.0995,87.0,55.0
+AP-042,ENG-042,92,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1167,0.0971,87.0,55.0
+AP-042,ENG-042,90,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1166,0.0969,87.0,55.0
+AP-042,ENG-042,88,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1166,0.0969,87.0,55.0
+AP-042,ENG-042,99,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1154,0.0948,87.0,55.0
+AP-043,ENG-043,66,LOW,vibration,increased vibration.,Continue monitoring and retain planned preventive maintenance.,0.3188,0.4028,82.0,48.0
+AP-043,ENG-043,60,LOW,vibration,increased vibration.,Continue monitoring and retain planned preventive maintenance.,0.3177,0.4008,82.0,48.0
+AP-043,ENG-043,34,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.302,0.3722,82.0,48.0
+AP-043,ENG-043,99,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1712,0.1343,82.0,48.0
+AP-043,ENG-043,94,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1697,0.1316,82.0,48.0
+AP-043,ENG-043,100,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1674,0.1274,82.0,48.0
+AP-043,ENG-043,91,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1667,0.1262,82.0,48.0
+AP-043,ENG-043,98,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1666,0.126,82.0,48.0
+AP-043,ENG-043,96,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1664,0.1256,82.0,48.0
+AP-043,ENG-043,85,LOW,vibration,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1651,0.1232,82.0,48.0
+AP-043,ENG-043,90,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1629,0.1192,82.0,48.0
+AP-043,ENG-043,88,LOW,vibration,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1626,0.1188,82.0,48.0
+AP-044,ENG-044,75,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.371,0.4403,78.0,41.0
+AP-044,ENG-044,100,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2188,0.1636,78.0,41.0
+AP-044,ENG-044,97,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2142,0.1551,78.0,41.0
+AP-044,ENG-044,93,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2127,0.1525,78.0,41.0
+AP-044,ENG-044,98,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.212,0.1512,78.0,41.0
+AP-044,ENG-044,99,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2104,0.1482,78.0,41.0
+AP-044,ENG-044,94,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2087,0.1452,78.0,41.0
+AP-044,ENG-044,91,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2067,0.1415,78.0,41.0
+AP-044,ENG-044,95,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2056,0.1396,78.0,41.0
+AP-044,ENG-044,92,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2027,0.1343,78.0,41.0
+AP-044,ENG-044,85,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2013,0.1318,78.0,41.0
+AP-044,ENG-044,96,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2007,0.1306,78.0,41.0
+AP-045,ENG-045,29,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.3691,0.3906,74.0,36.0
+AP-045,ENG-045,100,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2778,0.2247,74.0,36.0
+AP-045,ENG-045,97,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2778,0.2246,74.0,36.0
+AP-045,ENG-045,99,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2742,0.2182,74.0,36.0
+AP-045,ENG-045,98,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2686,0.208,74.0,36.0
+AP-045,ENG-045,96,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2666,0.2043,74.0,36.0
+AP-045,ENG-045,93,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2659,0.203,74.0,36.0
+AP-045,ENG-045,95,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2637,0.199,74.0,36.0
+AP-045,ENG-045,92,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.256,0.1851,74.0,36.0
+AP-045,ENG-045,90,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2538,0.181,74.0,36.0
+AP-045,ENG-045,94,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2511,0.1762,74.0,36.0
+AP-045,ENG-045,87,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.251,0.1759,74.0,36.0
+AP-046,ENG-046,97,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.3057,0.2393,71.0,32.0
+AP-046,ENG-046,99,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.3017,0.2322,71.0,32.0
+AP-046,ENG-046,91,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2992,0.2276,71.0,32.0
+AP-046,ENG-046,96,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2956,0.221,71.0,32.0
+AP-046,ENG-046,98,MEDIUM,vibration,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2955,0.2209,71.0,32.0
+AP-046,ENG-046,94,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.291,0.2126,71.0,32.0
+AP-046,ENG-046,92,MEDIUM,vibration,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2886,0.2083,71.0,32.0
+AP-046,ENG-046,100,MEDIUM,vibration,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2878,0.2068,71.0,32.0
+AP-046,ENG-046,93,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2872,0.2058,71.0,32.0
+AP-046,ENG-046,95,MEDIUM,vibration,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2872,0.2057,71.0,32.0
+AP-046,ENG-046,88,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2851,0.2019,71.0,32.0
+AP-046,ENG-046,89,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2792,0.1912,71.0,32.0
+AP-047,ENG-047,42,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.44,0.4577,69.0,29.0
+AP-047,ENG-047,99,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3429,0.2812,69.0,29.0
+AP-047,ENG-047,98,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3425,0.2805,69.0,29.0
+AP-047,ENG-047,100,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3359,0.2685,69.0,29.0
+AP-047,ENG-047,92,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3304,0.2585,69.0,29.0
+AP-047,ENG-047,97,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3257,0.2499,69.0,29.0
+AP-047,ENG-047,95,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3255,0.2495,69.0,29.0
+AP-047,ENG-047,87,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3248,0.2483,69.0,29.0
+AP-047,ENG-047,94,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3215,0.2422,69.0,29.0
+AP-047,ENG-047,93,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3195,0.2386,69.0,29.0
+AP-047,ENG-047,88,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3161,0.2325,69.0,29.0
+AP-047,ENG-047,96,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3158,0.2318,69.0,29.0
+AP-048,ENG-048,82,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.4922,0.5277,66.0,27.0
+AP-048,ENG-048,69,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.4909,0.5254,66.0,27.0
+AP-048,ENG-048,88,MEDIUM,compressor_pressure,compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.49,0.5237,66.0,27.0
+AP-048,ENG-048,71,MEDIUM,fuel_flow,increased fuel-flow demand.,Schedule priority inspection before the next high-load mission.,0.4867,0.5178,66.0,27.0
+AP-048,ENG-048,17,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.413,0.3837,66.0,27.0
+AP-048,ENG-048,8,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.4065,0.3719,66.0,27.0
+AP-048,ENG-048,99,MEDIUM,fuel_flow,compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.3578,0.2835,66.0,27.0
+AP-048,ENG-048,98,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3533,0.2752,66.0,27.0
+AP-048,ENG-048,97,MEDIUM,fuel_flow,increased vibration.,Schedule priority inspection before the next high-load mission.,0.3531,0.2749,66.0,27.0
+AP-048,ENG-048,94,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3452,0.2605,66.0,27.0
+AP-048,ENG-048,95,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3449,0.2599,66.0,27.0
+AP-048,ENG-048,100,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3442,0.2586,66.0,27.0
+AP-049,ENG-049,87,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.5394,0.5832,63.0,24.0
+AP-049,ENG-049,99,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3857,0.3037,63.0,24.0
+AP-049,ENG-049,96,MEDIUM,vibration,increased vibration.,Schedule priority inspection before the next high-load mission.,0.3736,0.2818,63.0,24.0
+AP-049,ENG-049,95,MEDIUM,vibration,increased vibration.,Schedule priority inspection before the next high-load mission.,0.3718,0.2785,63.0,24.0
+AP-049,ENG-049,100,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3696,0.2744,63.0,24.0
+AP-049,ENG-049,92,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3678,0.2712,63.0,24.0
+AP-049,ENG-049,98,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3664,0.2686,63.0,24.0
+AP-049,ENG-049,94,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3662,0.2682,63.0,24.0
+AP-049,ENG-049,93,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3624,0.2614,63.0,24.0
+AP-049,ENG-049,82,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3543,0.2467,63.0,24.0
+AP-049,ENG-049,97,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3533,0.2448,63.0,24.0
+AP-049,ENG-049,89,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3503,0.2393,63.0,24.0
+AP-050,ENG-050,92,HIGH,fuel_flow,increased vibration; reduced oil pressure; increased fuel-flow demand; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.6394,0.7301,59.0,21.0
+AP-050,ENG-050,98,HIGH,vibration,increased vibration; reduced oil pressure; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.6223,0.6989,59.0,21.0
+AP-050,ENG-050,73,HIGH,oil_pressure,increased vibration; reduced oil pressure.,Schedule priority inspection before the next high-load mission.,0.579,0.6202,59.0,21.0
+AP-050,ENG-050,70,HIGH,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.5544,0.5754,59.0,21.0
+AP-050,ENG-050,54,HIGH,vibration,increased vibration.,Schedule priority inspection before the next high-load mission.,0.5172,0.5078,59.0,21.0
+AP-050,ENG-050,78,HIGH,compressor_pressure,compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.5161,0.5059,59.0,21.0
+AP-050,ENG-050,99,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4342,0.3569,59.0,21.0
+AP-050,ENG-050,100,HIGH,fuel_flow,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4325,0.3539,59.0,21.0
+AP-050,ENG-050,97,HIGH,vibration,increased vibration.,Schedule priority inspection before the next high-load mission.,0.4275,0.3447,59.0,21.0
+AP-050,ENG-050,95,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4237,0.3378,59.0,21.0
+AP-050,ENG-050,94,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4226,0.3359,59.0,21.0
+AP-050,ENG-050,96,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4159,0.3237,59.0,21.0
+AP-051,ENG-051,99,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4702,0.392,56.0,18.0
+AP-051,ENG-051,100,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4577,0.3693,56.0,18.0
+AP-051,ENG-051,94,HIGH,vibration,increased vibration.,Schedule priority inspection before the next high-load mission.,0.4525,0.3597,56.0,18.0
+AP-051,ENG-051,96,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4511,0.3573,56.0,18.0
+AP-051,ENG-051,97,HIGH,vibration,increased vibration.,Schedule priority inspection before the next high-load mission.,0.4476,0.3509,56.0,18.0
+AP-051,ENG-051,98,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4465,0.3488,56.0,18.0
+AP-051,ENG-051,95,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4418,0.3403,56.0,18.0
+AP-051,ENG-051,26,HIGH,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.4406,0.3381,56.0,18.0
+AP-051,ENG-051,93,HIGH,fuel_flow,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4371,0.3317,56.0,18.0
+AP-051,ENG-051,91,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4344,0.3269,56.0,18.0
+AP-051,ENG-051,15,HIGH,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.4327,0.3238,56.0,18.0
+AP-051,ENG-051,92,HIGH,vibration,increased vibration; compressor pressure degradation.,Schedule priority inspection before the next high-load mission.,0.4324,0.3233,56.0,18.0
+AP-052,ENG-052,84,HIGH,vibration,increased vibration.,Service immediately and inspect degraded engine systems before next mission.,0.6261,0.6405,52.0,15.0
+AP-052,ENG-052,75,HIGH,exhaust_temperature,multi-sensor degradation pattern.,Service immediately and inspect degraded engine systems before next mission.,0.6188,0.6272,52.0,15.0
+AP-052,ENG-052,52,HIGH,fuel_flow,increased vibration.,Service immediately and inspect degraded engine systems before next mission.,0.5667,0.5324,52.0,15.0
+AP-052,ENG-052,37,HIGH,fuel_flow,multi-sensor degradation pattern.,Service immediately and inspect degraded engine systems before next mission.,0.5554,0.5119,52.0,15.0
+AP-052,ENG-052,100,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5227,0.4525,52.0,15.0
+AP-052,ENG-052,98,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5106,0.4305,52.0,15.0
+AP-052,ENG-052,97,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5023,0.4154,52.0,15.0
+AP-052,ENG-052,99,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5019,0.4146,52.0,15.0
+AP-052,ENG-052,96,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.4968,0.4054,52.0,15.0
+AP-052,ENG-052,94,HIGH,compressor_pressure,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.4967,0.4051,52.0,15.0
+AP-052,ENG-052,95,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.4948,0.4018,52.0,15.0
+AP-052,ENG-052,9,HIGH,fuel_flow,multi-sensor degradation pattern.,Service immediately and inspect degraded engine systems before next mission.,0.4892,0.3916,52.0,15.0
+AP-053,ENG-053,91,HIGH,oil_pressure,increased vibration; reduced oil pressure; increased fuel-flow demand; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.7127,0.763,48.0,12.0
+AP-053,ENG-053,84,HIGH,fuel_flow,increased vibration; reduced oil pressure; increased fuel-flow demand; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.7062,0.7511,48.0,12.0
+AP-053,ENG-053,61,HIGH,fuel_flow,multi-sensor degradation pattern.,Service immediately and inspect degraded engine systems before next mission.,0.6129,0.5815,48.0,12.0
+AP-053,ENG-053,100,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5464,0.4606,48.0,12.0
+AP-053,ENG-053,38,HIGH,fuel_flow,multi-sensor degradation pattern.,Service immediately and inspect degraded engine systems before next mission.,0.5464,0.4605,48.0,12.0
+AP-053,ENG-053,98,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.525,0.4217,48.0,12.0
+AP-053,ENG-053,97,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5249,0.4215,48.0,12.0
+AP-053,ENG-053,93,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5246,0.4209,48.0,12.0
+AP-053,ENG-053,35,HIGH,vibration,increased vibration.,Service immediately and inspect degraded engine systems before next mission.,0.5219,0.4161,48.0,12.0
+AP-053,ENG-053,99,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5217,0.4157,48.0,12.0
+AP-053,ENG-053,95,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5203,0.4132,48.0,12.0
+AP-053,ENG-053,96,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5171,0.4073,48.0,12.0
+AP-054,ENG-054,90,HIGH,fuel_flow,increased vibration; increased fuel-flow demand; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.7321,0.7688,44.0,10.0
+AP-054,ENG-054,97,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.7273,0.7601,44.0,10.0
+AP-054,ENG-054,94,HIGH,fuel_flow,elevated exhaust/engine temperature; increased vibration; increased fuel-flow demand; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.7223,0.751,44.0,10.0
+AP-054,ENG-054,89,HIGH,fuel_flow,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.7074,0.724,44.0,10.0
+AP-054,ENG-054,77,HIGH,exhaust_temperature,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6673,0.6511,44.0,10.0
+AP-054,ENG-054,68,HIGH,vibration,increased vibration.,Service immediately and inspect degraded engine systems before next mission.,0.612,0.5505,44.0,10.0
+AP-054,ENG-054,100,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5695,0.4732,44.0,10.0
+AP-054,ENG-054,95,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5509,0.4394,44.0,10.0
+AP-054,ENG-054,98,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5489,0.4358,44.0,10.0
+AP-054,ENG-054,99,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5451,0.4289,44.0,10.0
+AP-054,ENG-054,93,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5386,0.417,44.0,10.0
+AP-054,ENG-054,92,HIGH,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.5376,0.4153,44.0,10.0
+AP-055,ENG-055,86,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.7694,0.7891,36.0,8.0
+AP-055,ENG-055,98,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6608,0.5916,36.0,8.0
+AP-055,ENG-055,99,CRITICAL,vibration,increased vibration; reduced oil pressure; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6496,0.5713,36.0,8.0
+AP-055,ENG-055,100,CRITICAL,vibration,increased vibration; reduced oil pressure; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6431,0.5594,36.0,8.0
+AP-055,ENG-055,96,CRITICAL,vibration,increased vibration; reduced oil pressure; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6385,0.5511,36.0,8.0
+AP-055,ENG-055,48,CRITICAL,vibration,increased vibration.,Service immediately and inspect degraded engine systems before next mission.,0.635,0.5447,36.0,8.0
+AP-055,ENG-055,97,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6344,0.5437,36.0,8.0
+AP-055,ENG-055,95,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6233,0.5234,36.0,8.0
+AP-055,ENG-055,92,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6226,0.5222,36.0,8.0
+AP-055,ENG-055,94,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.616,0.5103,36.0,8.0
+AP-055,ENG-055,91,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6138,0.5062,36.0,8.0
+AP-055,ENG-055,93,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6106,0.5004,36.0,8.0
+AP-056,ENG-056,98,CRITICAL,vibration,increased vibration; reduced oil pressure; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.8639,0.927,31.0,6.0
+AP-056,ENG-056,93,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.8427,0.8884,31.0,6.0
+AP-056,ENG-056,80,CRITICAL,oil_pressure,increased vibration; reduced oil pressure; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.8041,0.8183,31.0,6.0
+AP-056,ENG-056,73,CRITICAL,exhaust_temperature,elevated exhaust/engine temperature; increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.744,0.709,31.0,6.0
+AP-056,ENG-056,62,CRITICAL,fuel_flow,increased vibration.,Service immediately and inspect degraded engine systems before next mission.,0.7063,0.6404,31.0,6.0
+AP-056,ENG-056,100,CRITICAL,vibration,increased vibration; reduced oil pressure; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6774,0.5879,31.0,6.0
+AP-056,ENG-056,99,CRITICAL,vibration,increased vibration; reduced oil pressure; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6662,0.5676,31.0,6.0
+AP-056,ENG-056,97,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6558,0.5486,31.0,6.0
+AP-056,ENG-056,94,CRITICAL,vibration,increased vibration; reduced oil pressure; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6554,0.548,31.0,6.0
+AP-056,ENG-056,96,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.651,0.54,31.0,6.0
+AP-056,ENG-056,95,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.648,0.5345,31.0,6.0
+AP-056,ENG-056,92,CRITICAL,vibration,increased vibration; compressor pressure degradation.,Service immediately and inspect degraded engine systems before next mission.,0.6434,0.5261,31.0,6.0
+AP-057,ENG-057,98,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1787,0.1403,84.0,45.0
+AP-057,ENG-057,95,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1764,0.1362,84.0,45.0
+AP-057,ENG-057,93,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1747,0.133,84.0,45.0
+AP-057,ENG-057,92,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1728,0.1295,84.0,45.0
+AP-057,ENG-057,99,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1711,0.1264,84.0,45.0
+AP-057,ENG-057,94,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.169,0.1226,84.0,45.0
+AP-057,ENG-057,97,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1689,0.1225,84.0,45.0
+AP-057,ENG-057,100,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1658,0.1168,84.0,45.0
+AP-057,ENG-057,87,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1643,0.1142,84.0,45.0
+AP-057,ENG-057,85,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1629,0.1116,84.0,45.0
+AP-057,ENG-057,90,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1613,0.1087,84.0,45.0
+AP-057,ENG-057,91,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.1607,0.1076,84.0,45.0
+AP-058,ENG-058,95,LOW,vibration,increased vibration.,Continue monitoring and retain planned preventive maintenance.,0.3736,0.4247,76.0,39.0
+AP-058,ENG-058,100,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2401,0.182,76.0,39.0
+AP-058,ENG-058,97,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.236,0.1746,76.0,39.0
+AP-058,ENG-058,99,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.23,0.1637,76.0,39.0
+AP-058,ENG-058,98,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2298,0.1633,76.0,39.0
+AP-058,ENG-058,96,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2281,0.1602,76.0,39.0
+AP-058,ENG-058,87,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2265,0.1573,76.0,39.0
+AP-058,ENG-058,93,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2253,0.1551,76.0,39.0
+AP-058,ENG-058,90,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2232,0.1513,76.0,39.0
+AP-058,ENG-058,94,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2229,0.1507,76.0,39.0
+AP-058,ENG-058,91,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2206,0.1465,76.0,39.0
+AP-058,ENG-058,88,LOW,fuel_flow,multi-sensor degradation pattern.,Continue monitoring and retain planned preventive maintenance.,0.2202,0.1459,76.0,39.0
+AP-059,ENG-059,100,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3327,0.2693,68.0,31.0
+AP-059,ENG-059,97,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.327,0.2588,68.0,31.0
+AP-059,ENG-059,99,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3256,0.2563,68.0,31.0
+AP-059,ENG-059,98,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3237,0.2528,68.0,31.0
+AP-059,ENG-059,96,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.321,0.2479,68.0,31.0
+AP-059,ENG-059,95,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3165,0.2398,68.0,31.0
+AP-059,ENG-059,93,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3097,0.2275,68.0,31.0
+AP-059,ENG-059,92,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.308,0.2244,68.0,31.0
+AP-059,ENG-059,94,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3065,0.2216,68.0,31.0
+AP-059,ENG-059,91,MEDIUM,fuel_flow,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3038,0.2167,68.0,31.0
+AP-059,ENG-059,90,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3024,0.2142,68.0,31.0
+AP-059,ENG-059,89,MEDIUM,vibration,multi-sensor degradation pattern.,Schedule priority inspection before the next high-load mission.,0.3012,0.212,68.0,31.0
